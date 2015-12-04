@@ -29,62 +29,32 @@
 
         <Button
             android:id="@+id/button_spotify"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center_horizontal"
-            android:layout_marginBottom="10dp"
-            android:background="#F08C35"
-            android:onClick="onClick"
+            style="@style/OrangeStyle"
             android:text="@string/app_spotify_streamer" />
 
         <Button
             android:id="@+id/button_scores"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center_horizontal"
-            android:layout_marginBottom="10dp"
-            android:background="#F08C35"
-            android:onClick="onClick"
+            style="@style/OrangeStyle"
             android:text="@string/app_scores" />
 
         <Button
             android:id="@+id/button_library"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center_horizontal"
-            android:layout_marginBottom="10dp"
-            android:background="#F08C35"
-            android:onClick="onClick"
+            style="@style/OrangeStyle"
             android:text="@string/app_library" />
 
         <Button
             android:id="@+id/button_build_it"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center_horizontal"
-            android:layout_marginBottom="10dp"
-            android:background="#F08C35"
-            android:onClick="onClick"
+            style="@style/OrangeStyle"
             android:text="@string/app_build_it_bigger" />
 
         <Button
             android:id="@+id/button_xyz_reader"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center_horizontal"
-            android:layout_marginBottom="10dp"
-            android:background="#F08C35"
-            android:onClick="onClick"
+            style="@style/OrangeStyle"
             android:text="@string/app_xyz_reader" />
 
         <Button
             android:id="@+id/button_capstone"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center_horizontal"
-            android:layout_marginBottom="10dp"
-            android:background="#E91E63"
-            android:onClick="onClick"
+            style="@style/MagentaStyle"
             android:text="@string/app_capstone_my_own"
             android:textColor="#FFFFFF" />
 
